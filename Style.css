@@ -1,0 +1,127 @@
+/*
+Theme Name: Street Business
+Theme URI: http://www.example.com
+Description: A professional business theme for web developers.
+Author: Leanon Chingwe
+Author URI: http://www.example.com/about/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: responsive-layout, business
+
+*/
+
+/* Color Scheme */
+body {
+  background-color: #f2f2f2;
+}
+
+a,
+button,
+input[type="button"],
+input[type="submit"] {
+  background-color: #007aff;
+  color: #fff;
+}
+
+a:hover {
+  background-color: #0056b3;
+}
+
+/* Fonts */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+/* Logo */
+.site-logo img {
+  max-width: 200px;
+}
+
+/* Header */
+.site-header {
+  background-color: #fff;
+  border-bottom: 1px solid #e6e6e6;
+  padding: 20px 0;
+}
+
+.site-title,
+.site-description {
+  margin: 0;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 2em;
+}
+
+.site-description {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+/* Navigation */
+.site-navigation {
+  background-color: #007aff;
+  margin-bottom: 20px;
+}
+
+.main-navigation,
+.main-navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.main-navigation li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.main-navigation li a {
+  color: #fff;
+  display: block;
+  padding: 10px;
+}
+
+.main-navigation li.current-menu-item > a {
+  background-color: #0056b3;
+}
+
+/* Main Content */
+.site-main {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.site-main h1, .site-main h2, .site-main h3, .site-main h4, .site-main h5, .site-main h6 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.site-main p {
+  margin-bottom: 20px;
+}
+
+/* Sidebar */
+.site-sidebar {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #007aff;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.site-info {
+  margin: 0;
+}
