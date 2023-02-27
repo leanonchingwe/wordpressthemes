@@ -11,7 +11,7 @@ We offer both free and premium themes, giving you the flexibility to choose a th
 Installing and customizing our themes is quick and easy, thanks to our detailed documentation and video tutorials. We also provide excellent customer support to ensure that you get the most out of your theme.
 
 ## License
-Our themes are licensed under the GNU General Public License v2 or later, which means that you are free to use, modify, and distribute them as you wish.
+This repository is licensed under the Creative Commons Zero v1.0 Universal license. You can find a copy of the license in the LICENSE file. This means that you can use, modify, and distribute the code and any associated documentation without any restrictions or requirements, including for commercial purposes, and without needing to give attribution to the original author or contributors. However, this license does not provide any warranty or liability protection.
 
 ## Contact Us
 If you have any questions or comments about our themes, please don't hesitate to contact us. We're always happy to hear from our customers and are committed to providing the best possible service.
